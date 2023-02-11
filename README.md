@@ -26,6 +26,12 @@ Detailed analysis can be found below.
 - [Dissecting 17 Malicious Selenium Packages Observed On PyPi by Kamran Saifullah](https://www.linkedin.com/pulse/dissecting-17-malicious-selenium-packages-observed-pypi-saifullah/)
 - [400+ Malicious Python Packages Manipulating Victim’s Clipboard to Steal Crypto by Jossef Harush Kadouri (Checkmarx)](https://medium.com/checkmarx-security/17-malicious-python-packages-targeting-selenium-users-to-steal-crypto-8d24628ec656)
 
+## Demo
+
+A demo has also been recorded and shared by **Jossef Harush**. It can be found on the below YT link.
+
+- https://youtu.be/fE6gj8RxMns
+
 ## Package Removal Credits
 
 The credit of removal of these packages goes to [**Jossef Harush Kadouri** - Head of Software Supply Chain Security](https://www.linkedin.com/in/jossef/) @ Checkmarx.
