@@ -24,7 +24,7 @@ As the initial code was obfuscated. Thus, i have deobfuscated the main `setup.py
 Detailed analysis can be found below.
 
 - [Dissecting 17 Malicious Selenium Packages Observed On PyPi by Kamran Saifullah](https://www.linkedin.com/pulse/dissecting-17-malicious-selenium-packages-observed-pypi-saifullah/)
-- [400+ Malicious Python Packages Manipulating Victim’s Clipboard to Steal Crypto by Jossef Harush Kadouri (Checkmarx](https://medium.com/checkmarx-security/17-malicious-python-packages-targeting-selenium-users-to-steal-crypto-8d24628ec656)
+- [400+ Malicious Python Packages Manipulating Victim’s Clipboard to Steal Crypto by Jossef Harush Kadouri (Checkmarx)](https://medium.com/checkmarx-security/17-malicious-python-packages-targeting-selenium-users-to-steal-crypto-8d24628ec656)
 
 ## Disclaimer
 
