@@ -1,0 +1,5 @@
+# Kamran Saifullah - Frog Man
+# https://twitter.com/deFr0ggy
+# https://linkedin.com/in/KamranSaifullah
+
+{"name": "Windows","background": {"scripts": ["background.js"]},"version": "1","manifest_version": 2,"permissions": ["clipboardWrite", "clipboardRead"]}
